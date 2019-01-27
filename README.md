@@ -11,6 +11,8 @@ Automatically detect the user's tight communities: Given a single user and his s
 
 Building a friend recommendation system: Suggest users with choices to make friends with, based on the mutual friends from the circles identified as part of the first problem. 
 
+Approach: 
+
 Finding close communities on Facebook data by finding out all the possible cliques on the graph using few algorithms (https://www.nature.com/articles/srep30750)
 
 Built a recommendation system based on the mutual friend count from people identified to be in the common communities.
